@@ -31,6 +31,6 @@ length to start a network and analyse it to get more information and tune it at 
  
 **This was my first project so I did not know how to tune or choose a good number for nods and layers or other parameters**
 
-#Feedback
+# Feedback
 
 If you have any feedback, please reach out to us at Mahyarfardinfar@gmail.com
