@@ -37,7 +37,7 @@ and shrinking it led us to a 60 MAE or 56 percent accuracy.
  But the point is that in this model the output plot showed that our model did not trained well because there was a gap between validation loss and 
 training evaluation.
 
-![Screenshot](https://ibb.co/YD7Ps9v)
+![Screenshot](https://i.postimg.cc/PfCyvfRv/2.jpg)
 
 # Feedback
 
