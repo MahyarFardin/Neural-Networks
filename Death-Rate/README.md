@@ -25,7 +25,7 @@ Finally I applied a basic neural networsks on it in order to predict and I tried
 MAE. This leads us to a 81 percent accuracy which is good for a model without anything but the imported point is we good
 a pretty good history plot at the first move.
 
-![Screenshot](https://ibb.co/7z8zpWN)
+![Screenshot](https://i.postimg.cc/T1NJSF1w/1.jpg)
 
 - In the second step we added an early call back to avoid over fitting which worked perfect indeed.
  We could get a 27.5 MAE which leads us to a 85 percent accuracy.
