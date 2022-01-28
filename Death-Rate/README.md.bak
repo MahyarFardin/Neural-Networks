@@ -10,7 +10,7 @@ The datset containes information about countries and their death rate and other 
 
 # Walkthrough
 
-	First I imported libraries which are needed for basic feature engineering and data-visualization
+  First I imported libraries which are needed for basic feature engineering and data-visualization
 and dataset itself, then I extracted information about the general affairs of dataset to see the data type
 of each column and to find the missing values. I removed some columns which were containing a lot on non 
 numeric information then I started the hardest part which was filling some missing values. I found thath one of

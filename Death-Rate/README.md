@@ -25,7 +25,7 @@ Finally I applied a basic neural networsks on it in order to predict and I tried
 MAE. This leads us to a 81 percent accuracy which is good for a model without anything but the imported point is we good
 a pretty good history plot at the first move.
 
-![https://ibb.co/7z8zpWN]
+![](https://ibb.co/7z8zpWN)
 
 - In the second step we added an early call back to avoid over fitting which worked perfect indeed.
  We could get a 27.5 MAE which leads us to a 85 percent accuracy.
@@ -37,7 +37,7 @@ and shrinking it led us to a 60 MAE or 56 percent accuracy.
  But the point is that in this model the output plot showed that our model did not trained well because there was a gap between validation loss and 
 training evaluation.
 
-![https://ibb.co/YD7Ps9v]
+![](https://ibb.co/YD7Ps9v)
 
 # Feedback
 
