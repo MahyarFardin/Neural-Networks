@@ -8,7 +8,7 @@ Link to it and description https://www.kaggle.com/misrakahmed/vegetable-image-da
 
 # Results
 
-![]("https://github.com/MahyarFardin/Neural-Networks/blob/neural-network/CNN/Vegetables/Annotation%202022-02-18%20215529.jpg")
+![alt text](https://github.com/MahyarFardin/Neural-Networks/blob/neural-network/CNN/Vegetables/Annotation%202022-02-18%20215529.jpg)
 
 # Connection
 
