@@ -11,7 +11,7 @@ In this projec I tried to predic whether some people have corona or not based on
 
 # Results
 
-![alt text](hhttps://github.com/MahyarFardin/Neural-Networks/blob/neural-network/CNN/corona_detection/With%204%20channels/Screenshot%20from%202022-03-03%2019-36-50.png)
+![alt text](https://github.com/MahyarFardin/Neural-Networks/blob/neural-network/CNN/corona_detection/With%204%20channels/Screenshot%20from%202022-03-03%2019-36-50.png)
  
 
 # Suggestions
