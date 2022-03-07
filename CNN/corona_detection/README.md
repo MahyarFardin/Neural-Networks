@@ -16,20 +16,20 @@ In this project I tried to predict the corona based on the pictures of lungs, fi
 
 
 	# With 4 channels
-![alt text](https://github.com/MahyarFardin/Neural-Networks/blob/neural-network/CNN/Digits_and_MathematicalSigns_Detection/Annotation%202022-02-21%20233219.jpg)
+![alt text](https://github.com/MahyarFardin/Neural-Networks/blob/neural-network/CNN/corona_detection/With%204%20channels/Screenshot%20from%202022-03-03%2019-36-50.png)
  
  
  	# With 3 channels
- ![alt text](https://github.com/MahyarFardin/Neural-Networks/blob/neural-network/CNN/Digits_and_MathematicalSigns_Detection/Annotation%202022-02-21%20233219.jpg)
+ ![alt text]()
  
  
  	# With one channel
- ![alt text](https://github.com/MahyarFardin/Neural-Networks/blob/neural-network/CNN/Digits_and_MathematicalSigns_Detection/Annotation%202022-02-21%20233219.jpg)
+ ![alt text](https://github.com/MahyarFardin/Neural-Networks/blob/neural-network/CNN/corona_detection/with%203%20channels/3channels.png)
 
 
 # Final result
 
- ![alt text](https://github.com/MahyarFardin/Neural-Networks/blob/neural-network/CNN/Digits_and_MathematicalSigns_Detection/Annotation%202022-02-21%20233219.jpg)
+ ![alt text](https://github.com/MahyarFardin/Neural-Networks/blob/neural-network/CNN/corona_detection/with%201%20channels/1channels.png)
 
 
 # Suggestions
