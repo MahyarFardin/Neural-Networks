@@ -29,7 +29,7 @@ In this project I tried to predict the corona based on the pictures of lungs, fi
 
 # Final result
 
- ![alt text]()
+ ![alt text](https://github.com/MahyarFardin/Neural-Networks/blob/neural-network/CNN/corona_detection/Best_Model_of_Me/final.png)
 
 
 # Suggestions
