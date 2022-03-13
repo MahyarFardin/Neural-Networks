@@ -21,7 +21,7 @@ Dataset was too untuned containing wide range resolutions and having different c
 # Results
 
 	Model 1
-![alt text](https://github.com/MahyarFardin/Neural-Networks/blob/neural-network/CNN/Digits_and_MathematicalSigns_Detection/Annotation%202022-02-21%20233219.jpg)
+![alt text](https://github.com/MahyarFardin/Neural-Networks/blob/neural-network/CNN/Brain_Tumor_Detection/results.jpg)
  
 
 # Suggestions
